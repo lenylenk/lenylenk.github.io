@@ -4,6 +4,11 @@
     <title>Tags on Lena Burkova</title>
     <link>https://burkova.me/tags/</link>
     <description>Recent content in Tags on Lena Burkova</description>
+    <image>
+      <title>Lena Burkova</title>
+      <url>https://burkova.me/me.jpg</url>
+      <link>https://burkova.me/me.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://burkova.me/tags/index.xml" rel="self" type="application/rss+xml" />

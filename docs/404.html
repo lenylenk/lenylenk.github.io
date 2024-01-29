@@ -7,7 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>404 Page not found | Lena Burkova</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="Writer and Artist">
 <meta name="author" content="">
 <link rel="canonical" href="https://burkova.me/404.html">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
@@ -55,23 +55,21 @@
 
     </style>
 </noscript><meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Writer and Artist" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://burkova.me/404.html" />
+<meta property="og:url" content="https://burkova.me/404.html" /><meta property="og:image" content="https://burkova.me/me.jpg"/><meta property="og:site_name" content="Lena Burkova" />
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://burkova.me/me.jpg"/>
+
 <meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Writer and Artist"/>
 
 </head>
 
 <body class="list" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,29 +80,19 @@
         <div class="logo">
             <a href="https://burkova.me/" accesskey="h" title="Lena Burkova (Alt + H)">Lena Burkova</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="https://burkova.me/books" title="Books">
+                    <span>Books</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://burkova.me/contacts" title="Contacts">
+                    <span>Contacts</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -166,18 +154,6 @@
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>
