@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://burkova.me/books/</loc>
-    <lastmod>2024-01-29T23:06:34+04:00</lastmod>
-  </url><url>
-    <loc>https://burkova.me/</loc>
-    <lastmod>2024-01-29T23:06:34+04:00</lastmod>
-  </url><url>
-    <loc>https://burkova.me/books/tak-gromko-tak-tiho/</loc>
-    <lastmod>2024-01-29T23:06:34+04:00</lastmod>
-  </url><url>
-    <loc>https://burkova.me/contacts/</loc>
-    <lastmod>2024-01-29T22:45:53+04:00</lastmod>
-  </url><url>
-    <loc>https://burkova.me/categories/</loc>
-  </url><url>
-    <loc>https://burkova.me/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://burkova.me/en/sitemap.xml</loc>
+    
+      <lastmod>2024-01-29T23:06:34+04:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://burkova.me/ru/sitemap.xml</loc>
+    
+      <lastmod>2024-01-29T23:06:34+04:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
