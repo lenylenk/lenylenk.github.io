@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books on Лена Буркова</title>
-    <link>https://burkova.me/ru/books/</link>
-    <description>Recent content in Books on Лена Буркова</description>
+    <title>Лена Буркова</title>
+    <link>https://burkova.me/</link>
+    <description>Recent content on Лена Буркова</description>
     <image>
       <title>Лена Буркова</title>
       <url>https://burkova.me/me.jpg</url>
@@ -12,18 +12,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 29 Jan 2024 23:06:34 +0400</lastBuildDate>
-    <atom:link href="https://burkova.me/ru/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://burkova.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Так громко, так тихо</title>
-      <link>https://burkova.me/ru/books/tak-gromko-tak-tiho/</link>
+      <link>https://burkova.me/books/tak-gromko-tak-tiho/</link>
       <pubDate>Mon, 29 Jan 2024 23:06:34 +0400</pubDate>
-      <guid>https://burkova.me/ru/books/tak-gromko-tak-tiho/</guid>
+      <guid>https://burkova.me/books/tak-gromko-tak-tiho/</guid>
       <description>Лайвбук:
 https://livebooks.ru/books/tak-gromko-tak-tiho
 Читай-город:
 https://www.chitai-gorod.ru/product/tak-gromko-tak-tiho-3025914
 Книжный магазин «Москва» на Тверской
 https://www.moscowbooks.ru/book/1181554/</description>
+    </item>
+    <item>
+      <title>Контакты</title>
+      <link>https://burkova.me/contacts/</link>
+      <pubDate>Mon, 29 Jan 2024 22:45:53 +0400</pubDate>
+      <guid>https://burkova.me/contacts/</guid>
+      <description>Инстаграм:
+https://instagram.com/burkova_ellen
+Почта:
+burkova.writer@gmail.com</description>
     </item>
   </channel>
 </rss>
