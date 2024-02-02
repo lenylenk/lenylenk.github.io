@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lena Burkova</title>
+    <title>Tags on Лена Буркова</title>
     <link>https://burkova.me/tags/</link>
-    <description>Recent content in Tags on Lena Burkova</description>
+    <description>Recent content in Tags on Лена Буркова</description>
     <image>
-      <title>Lena Burkova</title>
+      <title>Лена Буркова</title>
       <url>https://burkova.me/me.jpg</url>
       <link>https://burkova.me/me.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ru</language>
     <atom:link href="https://burkova.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
