@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on Лена Буркова</title>
+    <link>https://burkova.me/stories/</link>
+    <description>Recent content in Stories on Лена Буркова</description>
+    <image>
+      <title>Лена Буркова</title>
+      <url>https://burkova.me/me.jpg</url>
+      <link>https://burkova.me/me.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 26 Apr 2025 15:15:32 +0200</lastBuildDate>
+    <atom:link href="https://burkova.me/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мимоза</title>
+      <link>https://burkova.me/stories/mimosa/</link>
+      <pubDate>Sat, 26 Apr 2025 15:15:32 +0200</pubDate>
+      <guid>https://burkova.me/stories/mimosa/</guid>
+      <description>Читать рассказ на сайте «Kiozk»:
+https://kiozk.ru/article/grazia/mimoza</description>
+    </item>
+  </channel>
+</rss>
