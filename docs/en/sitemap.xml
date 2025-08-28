@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://burkova.me/en/books/</loc>
+    <lastmod>2025-08-28T01:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://burkova.me/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burkova.me/en/books/"
+                />
+  </url><url>
     <loc>https://burkova.me/en/</loc>
-    <lastmod>2025-04-26T15:15:32+02:00</lastmod>
+    <lastmod>2025-08-28T01:50:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://burkova.me/en/"
+                />
+  </url><url>
+    <loc>https://burkova.me/en/books/i-bylo-eto-tak/</loc>
+    <lastmod>2025-08-28T01:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://burkova.me/books/i-bylo-eto-tak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burkova.me/en/books/i-bylo-eto-tak/"
                 />
   </url><url>
     <loc>https://burkova.me/en/stories/mimosa/</loc>
@@ -39,19 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://burkova.me/en/stories/"
-                />
-  </url><url>
-    <loc>https://burkova.me/en/books/</loc>
-    <lastmod>2024-01-29T23:06:34+04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://burkova.me/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://burkova.me/en/books/"
                 />
   </url><url>
     <loc>https://burkova.me/en/books/tak-gromko-tak-tiho/</loc>
