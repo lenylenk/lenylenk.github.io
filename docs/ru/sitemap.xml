@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://burkova.me/books/</loc>
-    <lastmod>2025-08-28T01:50:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://burkova.me/en/books/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://burkova.me/books/"
-                />
-  </url><url>
     <loc>https://burkova.me/books/i-bylo-eto-tak/</loc>
     <lastmod>2025-08-28T01:50:44+02:00</lastmod>
     <xhtml:link
@@ -39,6 +26,19 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://burkova.me/"
+                />
+  </url><url>
+    <loc>https://burkova.me/books/</loc>
+    <lastmod>2025-08-28T01:50:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://burkova.me/en/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://burkova.me/books/"
                 />
   </url><url>
     <loc>https://burkova.me/stories/</loc>
